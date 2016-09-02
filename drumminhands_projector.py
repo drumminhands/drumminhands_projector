@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # created by chris@drumminhands.com
-# see instructions at http://www.drumminhands.com/2016/08/28/raspberry-pi-photo-booth-projector/
+# see instructions at http://www.drumminhands.com/2016/09/02/raspberry-pi-photo-booth-projector/
 # and the photo booth instruction at http://www.drumminhands.com/2014/06/15/raspberry-pi-photo-booth/
 # slide show based on https://github.com/bradmontgomery/pgSlideShow
 
